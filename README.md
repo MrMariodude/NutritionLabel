@@ -19,14 +19,6 @@ To use this template, follow these steps:
 
 You can then integrate this customized nutrition label into your website or food product packaging.
 
-## Preview
-
-![Nutrition Label Preview](nutrition_label_preview.png)
-
-[Live Demo](https://www.example.com)
-
-For a live demo, check out the link above, showcasing a sample nutrition label using this template.
-
 ## Features
 
 - Clear and intuitive design: The label is easy to read and comprehend, providing key nutritional values with appropriate serving size information.
