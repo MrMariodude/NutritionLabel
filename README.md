@@ -1,9 +1,8 @@
 # Nutrition Label
 
-<div style="text-align: center;">
-    <img src="[relative/path/to/your/image.png](https://github.com/MrMariodude/NutritionLabel/blob/dde0cdaaf029200c82023ef42b7c9463fe188324/Screenshot_1.jpg)" alt="Image Description" />
-</div>
-
+<p align="center">
+    <img src="https://github.com/MrMariodude/NutritionLabel/blob/dde0cdaaf029200c82023ef42b7c9463fe188324/Screenshot_1.jpg" alt="Image Description" />
+</p>
 
 ## Introduction
 
