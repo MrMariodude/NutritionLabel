@@ -1,6 +1,6 @@
 # Nutrition Label
 
-![Nutrition Label Preview](nutrition_label_preview.png)
+![Nutrition Label Preview](https://github.com/MrMariodude/NutritionLabel/blob/dde0cdaaf029200c82023ef42b7c9463fe188324/Screenshot_1.jpg)
 
 ## Introduction
 
